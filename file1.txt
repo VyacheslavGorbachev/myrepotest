@@ -1,0 +1,3 @@
+sdlam;las
+
+print("Hello world")
